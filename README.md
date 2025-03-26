@@ -79,8 +79,9 @@ streamlit run app.py
 - The app saves the FAISS index locally to "faiss_index".
 
 ## 📧 Contact
+- If you have any questions or feedback, feel free to reach out via email: pradeep18kumar10@gmail.com  
+- LinkedIn: [Pradeep Kumar](https://www.linkedin.com/in/pradeep-kumar-bba090320/)
 
-For questions or support, feel free to reach out via pradeep18kumar10@gmail.com or linkedin: https://www.linkedin.com/in/pradeep-kumar-bba090320/.
 
 ---
 
